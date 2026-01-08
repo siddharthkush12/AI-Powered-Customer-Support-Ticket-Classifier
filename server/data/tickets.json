@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cdfabd61-d895-4e8a-b8b1-e08826c0d90e",
+    "email": "siddharthkush12@gmail.com",
+    "subject": "URGENT: Payment processing completely broken",
+    "description": "Our payment gateway has been down for 2 hours. Customers can't complete purchases.\nWe're losing thousands of dollars. This needs immediate attention!",
+    "analysis": {
+      "category": "Technical",
+      "priority": "Critical",
+      "department": "Engineering",
+      "keyIssues": [
+        "payment gateway down",
+        "customers cannot complete purchases"
+      ],
+      "sentiment": "Frustrated"
+    },
+    "timestamp": "2026-01-08T21:53:02.602Z"
+  },
+  {
+    "id": "175135dd-dd74-4abd-b641-0d738f16cb81",
+    "email": "siddharth12@gmail.com",
+    "subject": "Can't reset my password",
+    "description": "I've tried the forgot password link 3 times but not receiving any emails. Checked spam\nfolder too.",
+    "analysis": {
+      "category": "Technical",
+      "priority": "High",
+      "department": "Engineering",
+      "keyIssues": [
+        "Forgot password email not received",
+        "Password reset link not working"
+      ],
+      "sentiment": "Frustrated"
+    },
+    "timestamp": "2026-01-08T21:42:13.077Z"
+  },
+  {
+    "id": "56da085f-e33a-43ed-81b8-6bdf92fe18af",
+    "email": "siddharthkush11@gmail.com",
+    "subject": "Can't reset my password",
+    "description": "I've tried the forgot password link 3 times but not receiving any emails. Checked spam\nfolder too.",
+    "analysis": {
+      "category": "Account",
+      "priority": "Medium",
+      "department": "Customer Success",
+      "keyIssues": [
+        "Forgot password",
+        "Email not received"
+      ],
+      "sentiment": "Frustrated"
+    },
+    "timestamp": "2026-01-08T21:39:54.836Z"
+  },
+  {
+    "id": "c6e7e1f8-9f86-4172-a876-ab1ef7d9895f",
+    "email": "siddharthkush11@gmail.com",
+    "subject": "Feature suggestion",
+    "description": "It would be nice to have dark mode in the dashboard. Not urgent, just a quality of life\nimprovement.",
+    "analysis": {
+      "category": "Feature Request",
+      "priority": "Low",
+      "department": "Product",
+      "keyIssues": [
+        "dark mode"
+      ],
+      "sentiment": "Neutral"
+    },
+    "timestamp": "2026-01-08T21:39:34.459Z"
+  },
+  {
+    "id": "994137b5-e110-43f6-85d0-a590b1c2c18c",
+    "email": "siddharthkush12@gmail.com",
+    "subject": "URGENT: Payment processing completely broken",
+    "description": "Our payment gateway has been down for 2 hours. Customers can't complete purchases.\nWe're losing thousands of dollars. This needs immediate attention!",
+    "analysis": {
+      "category": "Bug Report",
+      "priority": "Critical",
+      "department": "Engineering",
+      "keyIssues": [
+        "payment gateway outage",
+        "customers unable to complete purchases",
+        "significant revenue loss"
+      ],
+      "sentiment": "Frustrated"
+    },
+    "timestamp": "2026-01-08T21:38:38.706Z"
+  }
+]
