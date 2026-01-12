@@ -7,7 +7,7 @@ const app = express();
 /* ✅ CORS – THIS IS ENOUGH */
 app.use(
   cors({
-    origin: "http://localhost:5173", // frontend
+    origin: ["http://localhost:5173",""], // frontend
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders:[
             "Content-Type",
